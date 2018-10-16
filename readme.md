@@ -18,3 +18,5 @@ Use:
     => check_performance => check performance on custom dataset
     => check_on_custom_image = give image path as input and check model on that image
                         Important: Image should be square shapd ( z*z pixel in size )
+                        
+[embed]PatternRec2003-Liu.pdf[/embed]
